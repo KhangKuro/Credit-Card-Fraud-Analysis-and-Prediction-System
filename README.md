@@ -6,6 +6,8 @@
 
 In the digital age, financial transactions are increasingly vulnerable to fraud. Credit card fraud is a major concern for financial institutions and consumers alike. This project, the Credit Card Fraud Analysis and Prediction System, aims to tackle this challenge by analyzing transaction data, identifying patterns of fraudulent behavior, and developing predictive models to detect fraud. Our comprehensive approach integrates data processing, machine learning, and data visualization to enhance the detection and prevention of credit card fraud.
 
+![Process](https://github.com/KhangKuro/Credit-Card-Fraud-Analysis-and-Prediction-System/blob/main/fraud_process.png)
+
 ## About the Dataset ℹ️
 
 This dataset simulates credit card transactions, including both legitimate and fraudulent transactions, from January 1, 2019, to June 31, 2020. It includes information on transactions of 1000 customers using credit cards with a group of 800 service providers.
