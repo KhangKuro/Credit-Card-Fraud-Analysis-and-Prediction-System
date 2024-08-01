@@ -1,4 +1,4 @@
-![](https://github.com/KhangKuro/Credit-Card-Fraud-Cluster/blob/main/CCF.png)
+![Cover](https://github.com/KhangKuro/Credit-Card-Fraud-Cluster/blob/main/CCF.png)
 
 # Credit Card Fraud Analysis and Prediction System 💳🕵️‍♂️
 
@@ -46,12 +46,11 @@ This dataset simulates credit card transactions, including both legitimate and f
 
 The data is sourced from Kaggle and includes customer information and credit transactions. Initial data processing involves cleaning and preparing the data for analysis.
 
+![Data Processing](https://github.com/KhangKuro/Credit-Card-Fraud-Analysis-and-Prediction-System/blob/main/Processing.jpg)
+
 ### Data Storage
 
 A PostgreSQL database is used to store the cleaned data, including customer information, credit transactions, and flagged transaction classifications.
-
-![Data Storage](https://github.com/KhangKuro/Credit-Card-Fraud-Cluster/blob/main/CCF.png)
-*Description: Visual representation of the data storage process, highlighting the key components and their interactions.*
 
 ## Detection Model 🕵️‍♀️
 
@@ -67,7 +66,10 @@ Various machine learning and deep learning models are trained and fine-tuned to 
 
 Models are trained on the processed data, with an emphasis on fine-tuning to enhance detection accuracy.
 
-![Detection Model](https://github.com/KhangKuro/Credit-Card-Fraud-Cluster/blob/main/CCF.png)
+![Detection Model ML](https://github.com/KhangKuro/Credit-Card-Fraud-Analysis-and-Prediction-System/blob/main/ML_Flow.jpg)
+
+![Detection Model DL](https://github.com/KhangKuro/Credit-Card-Fraud-Analysis-and-Prediction-System/blob/main/DL_Flow.jpg)
+
 *Description: Diagram depicting the detection model workflow, including imbalance handling and model training steps.*
 
 ## Customer Segmentation 👥
@@ -84,7 +86,7 @@ Extract and visualize segments to create detailed profiles for each cluster, aid
 
 Perform in-depth analysis of each customer segment to gain insights into their behavior and fraud patterns.
 
-![Customer Segmentation](https://github.com/KhangKuro/Credit-Card-Fraud-Cluster/blob/main/CCF.png)
+![Customer Segmentation](https://github.com/KhangKuro/Credit-Card-Fraud-Analysis-and-Prediction-System/blob/main/Clustering%20_Flow.jpg)
 *Description: Illustration of the customer segmentation process, from clustering to insight analysis.*
 
 ## Data Visualization & Analytics 📈
@@ -97,7 +99,7 @@ Using BI tools like Tableau, interactive dashboards are created to visualize tra
 
 Data is analyzed and presented in a storytelling format to provide clear and actionable insights to stakeholders.
 
-![Data Visualization](https://github.com/KhangKuro/Credit-Card-Fraud-Cluster/blob/main/CCF.png)
+![Data Visualization](https://github.com/KhangKuro/Credit-Card-Fraud-Analysis-and-Prediction-System/blob/main/Analysis_Flow.jpg)
 *Description: Example of a data visualization dashboard designed to highlight key insights and trends.*
 
 ## Synthesis & Conclusion 📝
@@ -113,9 +115,6 @@ Compare findings with existing literature and synthesize the results to formulat
 ### Report & Recommend
 
 Create a comprehensive report with recommendations for financial institutions to implement enhanced security measures.
-
-![Synthesis & Conclusion](https://github.com/KhangKuro/Credit-Card-Fraud-Cluster/blob/main/CCF.png)
-*Description: Visual representation of the synthesis and conclusion process, summarizing the key steps and outcomes.*
 
 ## Additional Resources 📚
 
